@@ -2,7 +2,7 @@ name := "toy-search-engine"
 
 version := "0.1.0"
 
-scalaVersion := "2.12.0"
+scalaVersion := "2.11.6"
 
 organization := "com.github.sorhus"
 
